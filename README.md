@@ -10,4 +10,4 @@ The IridiumED is a map editor for mobile progams like me, made _100%_ in lua on 
 Everyone can contribute with this project:3 is just take and make your changes
 # Libs credits
 here all libs used
-### [Json.lua by rxi](https://github.com/rxi/json.lua)
+### [Json.lua by actboy128](https://github.com/actboy168/json.lua)
